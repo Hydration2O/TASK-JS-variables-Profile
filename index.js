@@ -66,7 +66,7 @@ function decrementBy1() {
 
 function incrementBy2() {
   // Increment stars by 2 👇🏻
-  if (stars != 3) {
+  if (stars != 4) {
   stars=stars+2;
   }
 }
